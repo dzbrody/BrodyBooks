@@ -2,7 +2,6 @@
 layout: page
 title: Mastering API Management with Swagger
 description: Mastering API Management with Swagger serves as a comprehensive guide for software developers, architects, and API enthusiasts who wish to understand and utilize the power of Swagger for designing, building, and managing APIs.
-background: '/img/Doodle02.png'
 ---
 
 # Mastering API Management with Swagger
