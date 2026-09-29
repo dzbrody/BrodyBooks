@@ -80,3 +80,8 @@ Earlier copies of this README pointed at brody.ca. The current site is [ctorescu
 The book is the framework. An engagement applies it to your gateway, your partners, and the transaction in front of you.
 
 [Book a Fractional CTO call](https://ctorescues.com/contact/) · [LinkedIn](https://www.linkedin.com/in/danielbrody/) · [Case studies](https://ctorescues.com/casestudy/) · [GitHub profile](https://github.com/dzbrody)
+
+
+---
+**CITO for Hire** — design-it · sell-it · build-it · implement-it
+[ctorescues.com](https://ctorescues.com) · [Facebook](https://www.facebook.com/people/CTORescues/100067231596849/) · [GitHub](https://github.com/dzbrody) · [LinkedIn](https://www.linkedin.com/in/danielbrody/)
